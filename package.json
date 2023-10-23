@@ -1,0 +1,30 @@
+{
+  "name": "john-nelson-nft-collection",
+  "version": "1.0.0",
+  "description": "John Nelson Art NFT Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockchainexpert912/john-nelson-nft-collection.git"
+  },
+  "keywords": [
+    "john-nelson",
+    "nft",
+    "blockchain",
+    "web3",
+    "artist"
+  ],
+  "author": "John Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockchainexpert912/john-nelson-nft-collection/issues"
+  },
+  "homepage": "https://github.com/blockchainexpert912/john-nelson-nft-collection#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.2"
+  }
+}
