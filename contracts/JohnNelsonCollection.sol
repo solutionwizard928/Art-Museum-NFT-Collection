@@ -1948,7 +1948,7 @@ contract JazzEditions is ERC721A, Ownable {
     string private uriSuffix = ".json";
     string public baseURI;
 
-    constructor(string memory initBaseURI) ERC721A("The John Nelson Jazz Collection", "TJNJC") {
+    constructor(string memory initBaseURI) ERC721A("Jazz Editions By John Nelson", "JAZZ") {
         baseURI = initBaseURI;
     }
 
